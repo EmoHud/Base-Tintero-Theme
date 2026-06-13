@@ -1,15 +1,15 @@
 {
-  "name": "My Custom Theme",
-  "id": "my-custom-theme",
+  "name": "Emu's Custom Theme",
+  "id": "Emu's-custom-theme",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "EmuHud",
   "description": "A beautiful custom theme for Tintero",
-  "repository": "https://github.com/yourusername/tintero-theme-name",
+  "repository": "https://github.com/EmoHud/Emu's-custom-theme",
   "preview": "preview.png",
   "license": "MIT",
   "tags": [
-    "dark",
-    "warm",
+    "bright",
+    "cool",
     "minimal"
   ],
   "colors": {
