@@ -39,24 +39,24 @@
      ======================================== */
 
   /* Main background colors */
-  --dark-menu: #1e1e1e;
-  --dark-bg: #121212;
-  --dark-secondary: #181818;
-  --dark-tertiary: #222222;
-  --dark-quaternary: #2d2d2d;
+  --dark-menu: 002F11;
+  --dark-bg: 001D0F;
+  --dark-secondary: 00391F;
+  --dark-tertiary: 004F3E;
+  --dark-quaternary: 006010;
 
   /* Text colors */
-  --text-primary: #e6d7c2;
-  --text-secondary: #a98e6b;
-  --text-tertiary: #a19591;
+  --text-primary: #C1E6C1;
+  --text-secondary: #6AA86D;
+  --text-tertiary: #9CA191;
 
   /* Accent colors */
-  --accent-color: #c98a48;
-  --accent-color-hover: #e1a66b;
+  --accent-color: #39B25A;
+  --accent-color-hover: #70E06C;
 
   /* Border and button colors */
-  --border-color: #2d2d2d;
-  --button-hover: #1e1e1e;
+  --border-color: #003319;
+  --button-hover: #00A55B;
 
   /* ========================================
      BUTTON STYLES
