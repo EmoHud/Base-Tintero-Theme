@@ -3,14 +3,14 @@
   "id": "emus-first-theme",
   "version": "1.0.0",
   "author": "Emu",
-  "description": "Was curious if I was skilled enough to make one of these, so tried it out!",
+  "description": "Was curious if I could figure out how to make one of these, so tried it out!",
   "repository": "https://github.com/emohud/emus-first-theme",
   "preview": "preview.png",
   "license": "MIT",
   "tags": [
-    "dark",
     "warm",
-    "minimal"
+    "green",
+    "relaxing"
   ],
   "colors": {
     "primary": "#28D754",
